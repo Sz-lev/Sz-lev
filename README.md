@@ -4,8 +4,6 @@
 
 👨‍🎓 I am a Computer Science Engineer student at *Budapesti Műszaki és Gazdaságtudományi Egyetem*.
 
-🐍 Currently refreshing and widening my Python knowledge.
-
 ### **Programming languages:**
 
 - C
