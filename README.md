@@ -9,6 +9,9 @@
 - C
 - C++
 - Python
+- Java
+- JavaScript
+- C# (currently learning)
 
 <!---
 Sz-lev/Sz-lev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
